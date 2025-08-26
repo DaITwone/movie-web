@@ -1,0 +1,17 @@
+@import "tailwindcss";
+/* Reset bổ sung */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* Giữ scrollbar luôn xuất hiện để width không nhảy */
+html {
+  overflow-y: scroll;
+}
+
+/* Fix margin mặc định */
+body {
+  margin: 0;
+}
