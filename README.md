@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Movie App
 
 ## 1. Project Description
@@ -99,5 +100,4 @@ Visit [http://localhost:5173](http://localhost:5173)
 - Add user profile management
 
 ---
-
 
